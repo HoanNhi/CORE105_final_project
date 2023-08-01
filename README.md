@@ -6,6 +6,8 @@ Motivation: STEM and physics are two subjects that help to develop critical thin
 
 Solution: Building a kit consisting of a small controllable ALT-AZ telescope mount via an app named Stellarium and a small telescope so that high school students can learn STEM by assembling the kits and physics by learning how a telescope works.
 
+Video summary of the project is [here](https://youtu.be/q6fWOUK1MZ0)
+
 The repository contains the following files:
 1. Final project report.
 2. Arduino code to communicate with an app named Stellarium and control motors.
